@@ -14,7 +14,7 @@
 
 [![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lecastro1993/)
 
-##### 🤹 Tecnologias e Ferramentas
+##### 🤹 Technologies and Tools
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 
