@@ -1,10 +1,11 @@
-<p align="center">
- <img 
-      width="50%" 
-      src="https://media.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" />
-</p>
+### Olá. Seja bem-vindo ao meu perfil no Github! 
 
-### Hello World, i'm Lucas Castro 🖖 🖖 🖖
+- 😄 Meu nome é Lucas Castro !
+- 🌱 Atualmente cursando Pós-graduação Go Expert [Full Cycle](https://goexpert.fullcycle.com.br/pos-goexpert/) 🖖 🖖 🖖
+- ⚡ Curiosidade: Faixa Marrom em jiu-jitsu 
+- 📫 Como entrar em contato comigo:
+
+<br>
 
 💻 Backend Engineer
 
